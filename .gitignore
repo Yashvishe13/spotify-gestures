@@ -1,0 +1,12 @@
+# Local environments and build output
+.venv*/
+dist/
+__pycache__/
+.DS_Store
+
+# Large / local-only data
+Data/
+videos/
+transformed_vids/
+augmented_vids/
+preview/

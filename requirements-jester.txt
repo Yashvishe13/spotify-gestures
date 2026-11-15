@@ -1,0 +1,7 @@
+torch==2.15.0
+torchvision==0.29.2
+numpy==2.5.4
+pillow==13.0.0
+scikit-learn==1.9.1
+opencv-python-headless==5.0.0.93
+coremltools==9.0
